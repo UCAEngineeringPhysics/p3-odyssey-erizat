@@ -4,7 +4,7 @@
   <name>homer_navigation</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="lzhang12@uca.edu">pbd0</maintainer>
+  <maintainer email="erizat@todo.todo">pbd0</maintainer>
   <license>GPL-v3.0-only</license>
 
   <test_depend>ament_copyright</test_depend>
