@@ -31,7 +31,7 @@ echo "source ~/homer_ws/install/local_setup.bash" >> ~/.bashrc  # register packa
 source ~/.bashrc
 ```
 
-## Software Usage Instructions
+# Software Usage Instructions
 
 ### Create a Map
 Set HomeR at a good starting location on the ground.
