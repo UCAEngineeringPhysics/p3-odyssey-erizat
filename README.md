@@ -7,6 +7,7 @@
 
 ### Hardware Installation Guide
 
+### Software Installation Guide
 ## Install homer_bringup Package
 
 ```
