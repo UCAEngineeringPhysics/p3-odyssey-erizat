@@ -81,3 +81,5 @@ ros2 launch homer_navigation navigation.launch.py
 (Optional) If the lidar scan and the map are misaligned, use "2D Pose Estimate" button on the top of the Rviz to set initial pose for HomeR.
 
 In Rviz, use "2D Goal Pose" button to set desired ending pose for HomeR.
+
+(Nav2 parameters have been modified to improve navigation.)
