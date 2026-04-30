@@ -28,7 +28,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='pbd0',
-    maintainer_email='lzhang12@uca.edu',
+    maintainer_email='erizat@todo.todo',
     description='TODO: Package description',
     license='GPL-v3.0-only',
     extras_require={
