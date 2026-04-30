@@ -1,13 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7KaPTW5f)
 # The Odyssey
 
-## Coffee Transportation Solution
+# Coffee Transportation Solution
 
-### Mechanical Design
+# Mechanical Design
 
-### Hardware Installation Guide
+# Hardware Installation Guide
 
-### Software Installation Guide
+# Software Installation Guide
 ## Install homer_bringup Package
 
 ```
@@ -59,7 +59,7 @@ Type the absolute path for the map which is intended to be saved in the box next
 
 Click "Serialize Map" button, then verify if map files are saved successfully.
 
-# Navigation
+### Navigation
 Open localization configuration file $HOME/homer_ws/src/homer_navigation/configs/localization_params.yaml, and edit map_file_name around line 18. Use the map name you've saved in the previous steps, for example:
 
 map_file_name: /tmp/test_map
