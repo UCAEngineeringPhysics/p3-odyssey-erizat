@@ -9,6 +9,8 @@
 
 # Hardware Installation Guide
 <img width="1156" height="868" alt="1144" src="https://github.com/user-attachments/assets/b5432ba8-c487-4c71-b183-c3ac8ce2e0ce" />
+<img width="3472" height="4624" alt="1143" src="https://github.com/user-attachments/assets/45ae8755-7473-4fdf-b3e3-159fcd6213ac" />
+
 
 The hardware installation was not the most high quality job but as far as immediate necessity, it works efficiently and in a pinch
 
