@@ -8,7 +8,7 @@
 # Mechanical Design
 
 # Hardware Installation Guide
-<img width="4624" height="3472" alt="1144" src="https://github.com/user-attachments/assets/b5432ba8-c487-4c71-b183-c3ac8ce2e0ce" />
+<img width="1156" height="868" alt="1144" src="https://github.com/user-attachments/assets/b5432ba8-c487-4c71-b183-c3ac8ce2e0ce" />
 
 The hardware installation was not the most high quality job but as far as immediate necessity, it works efficiently and in a pinch
 
