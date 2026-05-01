@@ -4,10 +4,13 @@
 
 # Coffee Transportation Solution
 <img width="761" height="610" alt="Screenshot 2026-05-01 111158" src="https://github.com/user-attachments/assets/81ff2742-61a4-4094-a57f-a1af5425e497" />
-<img width="981" height="492" alt="Screenshot 2026-05-01 111132" src="https://github.com/user-attachments/assets/cb86e10f-fba3-43ac-a552-a15600267145" />
-<img width="678" height="544" alt="image" src="https://github.com/user-attachments/assets/f90e0b1b-97a8-48d6-abbe-7203ec9187be" />
+<img width="1738" height="2047" alt="image29182 1" src="https://github.com/user-attachments/assets/bcca2836-195d-4bd7-b76b-9d03348fbb71" />
+
 
 # Mechanical Design
+<img width="643" height="435" alt="Screenshot 2026-05-01 115840" src="https://github.com/user-attachments/assets/dd1b9ef2-1358-4952-9b1e-64680b2f80fb" />
+<img width="766" height="617" alt="Screenshot 2026-05-01 115900" src="https://github.com/user-attachments/assets/2c4dc88f-48b1-406b-ac0f-2250d187b9cf" />
+<img width="682" height="507" alt="Screenshot 2026-05-01 115202" src="https://github.com/user-attachments/assets/010dead2-59d5-4d2c-a028-6a1e3ba1e902" />
 
 The physical design of the cup holder is very simple, it has two arms that wrap around the round body of the cup without hugging it to give it horizontal stability with a flat bottom extrudng outward for vertical stability
 # Hardware Installation Guide
