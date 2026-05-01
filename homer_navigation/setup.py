@@ -1,0 +1,43 @@
+from setuptools import find_packages, setup
+from pathlib import Path
+
+
+package_name = 'homer_navigation'
+
+setup(
+    name=package_name,
+    version='0.0.0',
+    packages=find_packages(exclude=['test']),
+    data_files=[
+        ('share/ament_index/resource_index/packages',
+            ['resource/' + package_name]),
+        ('share/' + package_name, ['package.xml']),
+        (
+            str(Path("share") / package_name / "configs"),
+            [str(p) for p in Path("configs").glob("*.yaml")],
+        ),
+        (
+            str(Path("share") / package_name / "rviz"),
+            [str(p) for p in Path("rviz").glob("*.rviz")],
+        ),
+        (
+            str(Path("share") / package_name / "launch"),
+            [str(p) for p in Path("launch").glob("*.launch.py")],
+        ),
+   ],
+    install_requires=['setuptools'],
+    zip_safe=True,
+    maintainer='pbd0',
+    maintainer_email='erizat@todo.todo',
+    description='TODO: Package description',
+    license='GPL-v3.0-only',
+    extras_require={
+        'test': [
+            'pytest',
+        ],
+    },
+    entry_points={
+        'console_scripts': [
+        ],
+    },
+)
