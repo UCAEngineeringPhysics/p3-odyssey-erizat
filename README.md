@@ -6,12 +6,13 @@
 <img width="761" height="610" alt="Screenshot 2026-05-01 111158" src="https://github.com/user-attachments/assets/81ff2742-61a4-4094-a57f-a1af5425e497" />
 <img width="981" height="492" alt="Screenshot 2026-05-01 111132" src="https://github.com/user-attachments/assets/cb86e10f-fba3-43ac-a552-a15600267145" />
 # Mechanical Design
-
+The physical design of the cup holder is very simple, it has two arms that wrap around the round body of the cup without hugging it to give it horizontal stability with a flat bottom extrudng outward for vertical stability
 # Hardware Installation Guide
 The hardware installation was not the most high quality job but as far as immediate necessity, it works efficiently and in a pinch
-<img width="1156" height="868" alt="1144" src="https://github.com/user-attachments/assets/b5432ba8-c487-4c71-b183-c3ac8ce2e0ce" />
+The top portion is simply taped to the body of the drone in order to fit it to the back as it was designed to clip on the front but caused the drone to be front heavy when water was put in the cup.
 <img width="868" height="1156" alt="1143" src="https://github.com/user-attachments/assets/45ae8755-7473-4fdf-b3e3-159fcd6213ac" />
-
+The rubber band is wrapped around the caster wheel for added stability in an unstable environment, as the cup has a flat back and the back of the drone is pointed.
+<img width="1156" height="868" alt="1144" src="https://github.com/user-attachments/assets/b5432ba8-c487-4c71-b183-c3ac8ce2e0ce" />
 
 
 
