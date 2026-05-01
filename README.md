@@ -1,11 +1,16 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7KaPTW5f)
 # The Odyssey
 
 # Coffee Transportation Solution
-
+<img width="761" height="610" alt="Screenshot 2026-05-01 111158" src="https://github.com/user-attachments/assets/81ff2742-61a4-4094-a57f-a1af5425e497" />
+<img width="981" height="492" alt="Screenshot 2026-05-01 111132" src="https://github.com/user-attachments/assets/cb86e10f-fba3-43ac-a552-a15600267145" />
 # Mechanical Design
 
 # Hardware Installation Guide
+<img width="4624" height="3472" alt="1144" src="https://github.com/user-attachments/assets/b5432ba8-c487-4c71-b183-c3ac8ce2e0ce" />
+
+The hardware installation was not the most high quality job but as far as immediate necessity, it works efficiently and in a pinch
 
 # Software Installation Guide
 ## Install homer_bringup Package
