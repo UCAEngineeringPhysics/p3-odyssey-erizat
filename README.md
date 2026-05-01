@@ -5,7 +5,10 @@
 # Coffee Transportation Solution
 <img width="761" height="610" alt="Screenshot 2026-05-01 111158" src="https://github.com/user-attachments/assets/81ff2742-61a4-4094-a57f-a1af5425e497" />
 <img width="981" height="492" alt="Screenshot 2026-05-01 111132" src="https://github.com/user-attachments/assets/cb86e10f-fba3-43ac-a552-a15600267145" />
+<img width="678" height="544" alt="image" src="https://github.com/user-attachments/assets/f90e0b1b-97a8-48d6-abbe-7203ec9187be" />
+
 # Mechanical Design
+
 The physical design of the cup holder is very simple, it has two arms that wrap around the round body of the cup without hugging it to give it horizontal stability with a flat bottom extrudng outward for vertical stability
 # Hardware Installation Guide
 The hardware installation was not the most high quality job but as far as immediate necessity, it works efficiently and in a pinch
